@@ -1,0 +1,12 @@
+{
+  "new_user":{
+        "name":"Shubham",
+        "username":"qa user",
+        "email":"test@gmail.com"
+    },
+  "new_user2": {
+        "name":"Shubham shekhar",
+        "username":"qa user",
+        "email":"test@gmail.com"
+    }
+}
